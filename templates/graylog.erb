@@ -84,7 +84,7 @@ filter {
 output {
   gelf {
 	  host => '<%= @graylog_server %>'
-	  port => '<%= @port %>'
+	  port => '<%= @graylog_port %>'
 	  protocol => 'TCP'
   }
 }
