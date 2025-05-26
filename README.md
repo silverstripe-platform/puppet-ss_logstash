@@ -6,7 +6,7 @@ In your `Puppetfile` add:
 
 ```
 mod 'silverstripe-ss_logstash',
-  :git => "https://github.com/silverstripeltd/puppet-ss_logstash.git"
+  :git => "https://github.com/silverstripe-platform/puppet-ss_logstash.git"
 ```
 
 Then in your manifest you will need:
