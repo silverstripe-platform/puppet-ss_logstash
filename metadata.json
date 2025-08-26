@@ -4,9 +4,9 @@
   "author": "SilverStripe Ltd",
   "summary": "Installs logstash for use on AWS Graylog setup, uses TCP rather than UDP",
   "license": "BSD-3-Clause",
-  "source": "https://github.com/silverstripeltd/puppet-ss_logstash",
-  "project_page": "https://github.com/silverstripeltd/puppet-ss_logstash",
-  "issues_url": "https://github.com/silverstripeltd/puppet-ss_logstash/issues",
+  "source": "https://github.com/silverstripe-platform/puppet-ss_logstash",
+  "project_page": "https://github.com/silverstripe-platform/puppet-ss_logstash",
+  "issues_url": "https://github.com/silverstripe-platform/puppet-ss_logstash/issues",
   "dependencies": [
   ],
   "data_provider": null,
